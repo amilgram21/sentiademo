@@ -1,0 +1,96 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_DEMOSENTIAWAP01_name": {
+            "value": null
+        },
+        "sites_DEMOSENTIAWAP02_name": {
+            "value": null
+        },
+        "sites_DEMOSENTIAWAP03_name": {
+            "value": null
+        },
+        "vaults_SENTIADEMOKV01_name": {
+            "value": null
+        },
+        "serverfarms_DSAppServicePlan_name": {
+            "value": null
+        },
+        "components_DEMOSENTIAWAP01_name": {
+            "value": null
+        },
+        "components_DEMOSENTIAWAP02_name": {
+            "value": null
+        },
+        "components_DEMOSENTIAWAP03_name": {
+            "value": null
+        },
+        "virtualNetworks_sentiademontw_name": {
+            "value": null
+        },
+        "storageAccounts_sentiademostg01_name": {
+            "value": null
+        },
+        "storageAccounts_sentiademostg02_name": {
+            "value": null
+        },
+        "storageAccounts_sentiademostg03_name": {
+            "value": null
+        },
+        "virtualMachines_sentiademomgdb01_name": {
+            "value": null
+        },
+        "virtualNetworks_sentiademo_network_name": {
+            "value": null
+        },
+        "registries_sentiademokibana_name": {
+            "value": null
+        },
+        "loadBalancers_sentiademo_loadbalancer_name": {
+            "value": null
+        },
+        "networkInterfaces_sentiademomgdb01633_name": {
+            "value": null
+        },
+        "publicIPAddresses_sentiademomgdb01_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_sentiademo_public_ip_name": {
+            "value": null
+        },
+        "networkSecurityGroups_sentiademomgdb01_nsg_name": {
+            "value": null
+        },
+        "networkSecurityGroups_sentiademo_instance_nsg_name": {
+            "value": null
+        },
+        "autoscalesettings_sentiasentiademo_autoscaling_name": {
+            "value": null
+        },
+        "schedules_shutdown_computevm_sentiademomgdb01_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "frontdoorwebapplicationfirewallpolicies_sentiademo_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___demosentiawap01_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___demosentiawap02_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___demosentiawap03_name": {
+            "value": null
+        },
+        "virtualMachineScaleSets_mytestscaleset_1_externalid": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_f0d62caa_abc6_46ae_b8e4_0073f3f864a1_CUS_externalid": {
+            "value": null
+        }
+    }
+}
